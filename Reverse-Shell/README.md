@@ -1,4 +1,4 @@
-# Linux-x86-Reverse-Shell
+# Linux-x86/Reverse-Shell
 
         Linux/x86 Reverse TCP Shell with dynamic IP and port binding Shellcode (tested on Ubuntu 12.04 LTS)
         Usage: gcc -z execstack -o shell_reverse_tcp shell_reverse_tcp.c
