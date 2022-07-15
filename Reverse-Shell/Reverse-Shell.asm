@@ -1,4 +1,3 @@
-
 ; shellcode assembly
  
 global _start:
