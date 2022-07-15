@@ -19,9 +19,13 @@
 # [Bind-Shellcode](Bind-Shellcode/README.md)
 
 # Linux-x86/Bind-Shellcode
+## Linux-x86 - Bind (User Specified Port) Shell (/bin/sh) Shellcode (102 bytes)
+
 ---
 
 # [Reverse-Shell](Reverse-Shell/README.md)
+
+## Linux-x86 - Reverse (dynamic IP and port/TCP) Shell (/bin/sh) Shellcode (86 bytes)
 
 # Linux-x86/Reverse-Shell
 
